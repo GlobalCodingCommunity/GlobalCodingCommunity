@@ -7,16 +7,16 @@ GCC was formed out of the need for a global community where job seekers can find
 🖥️ Webinar Series Recap
 We’ve had the privilege of hosting incredible speakers through our GCC Open Webinar Series, each sharing their unique experiences and advice for acing tech interviews:
 
-1. Jin Park (Full Stack Engineer at DigitalOcean, USA)
+1. Jin Park (Full Stack Engineer at DigitalOcean, USA) : 
 Jin walked us through strategies for behavioral interviews, drawing from his experience across 300+ interviews in Canada. His insights into how to navigate behavioral questions were invaluable.
 
-2. Jay Sim (DevOps Engineer at VSHN, Switzerland)
+2. Jay Sim (DevOps Engineer at VSHN, Switzerland) : 
 Jay’s session focused on tips for excelling in DevOps interviews. His practical advice on how to approach technical questions and scenarios in interviews really stood out.
 
-3. Vishal Singh Deoleya (Software Engineer at AWS, India)
+3. Vishal Singh Deoleya (Software Engineer at AWS, India) : 
 Vishal gave us a peek into the AWS interview process, sharing his own experience and what it takes to prepare effectively for interviews at large tech companies.
 
-4. José Luis Estrella Campaña (Senior Software Engineer at Meta, London)
+4. José Luis Estrella Campaña (Senior Software Engineer at Meta, London) : 
 José shared his experiences interviewing with Meta, Google, and AWS. He has lots of experience and information from various study group and interviews.
 
 💡 How to Join GCC
